@@ -1,0 +1,2 @@
+# Overview
+The document outlines our proposed idea for an online ordering system for Meranti inside UTM. The primary purpose of this system is to replace the manual process of standing in long queues and waiting for orders. It allows users to view menus, place orders online, and choose between self-pickup or delivery within the campus, enhancing convenience and reducing wait times. The system will be implemented using C++ OOP approach.
